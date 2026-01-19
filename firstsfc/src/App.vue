@@ -1,5 +1,5 @@
 <template>
-  <h1>My Own Profile, Prutas at gulay</h1>
+  <h1>Prutas at gulay</h1>
   <personal-profile/>
   <food-item/>
   <food-item2/>
