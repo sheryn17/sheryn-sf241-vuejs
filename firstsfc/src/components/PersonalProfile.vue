@@ -249,5 +249,6 @@
 </footer>
 
 <script src="js/script.js"></script>
+<style src="./css/personalprofile.css"></style>
 </body>
 </html>
